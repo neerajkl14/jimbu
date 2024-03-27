@@ -1,4 +1,8 @@
-# jimbu
-This is a bot from chat gpt.. whatsapp bot
+# Project Title
 
-in future the bot woll complete
+Brief description of what your project does.
+
+## Installation
+
+1. Clone the repository:
+2. 
